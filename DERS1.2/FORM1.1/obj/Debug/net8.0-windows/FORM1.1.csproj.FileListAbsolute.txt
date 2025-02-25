@@ -1,0 +1,16 @@
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\bin\Debug\net8.0-windows\FORM1.1.exe
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\bin\Debug\net8.0-windows\FORM1.1.deps.json
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\bin\Debug\net8.0-windows\FORM1.1.runtimeconfig.json
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\bin\Debug\net8.0-windows\FORM1.1.dll
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\bin\Debug\net8.0-windows\FORM1.1.pdb
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1._1.Form1.resources
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.csproj.GenerateResource.cache
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.AssemblyInfoInputs.cache
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.AssemblyInfo.cs
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.dll
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\refint\FORM1.1.dll
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.pdb
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\FORM1.1.genruntimeconfig.cache
+C:\Users\Serdar Umut\source\repos\FORM1.1\FORM1.1\obj\Debug\net8.0-windows\ref\FORM1.1.dll

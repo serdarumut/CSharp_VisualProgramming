@@ -1,0 +1,7 @@
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\bin\Debug\Ders2.2.exe.config
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\bin\Debug\Ders2.2.exe
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\bin\Debug\Ders2.2.pdb
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\obj\Debug\Ders2.2.csproj.AssemblyReference.cache
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\obj\Debug\Ders2.2.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\obj\Debug\Ders2.2.exe
+C:\Users\Serdar Umut\source\repos\Ders2.2\Ders2.2\obj\Debug\Ders2.2.pdb

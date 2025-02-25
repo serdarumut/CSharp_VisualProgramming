@@ -1,0 +1,16 @@
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\bin\Debug\net8.0-windows\Proje_Form1.exe
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\bin\Debug\net8.0-windows\Proje_Form1.deps.json
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\bin\Debug\net8.0-windows\Proje_Form1.runtimeconfig.json
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\bin\Debug\net8.0-windows\Proje_Form1.dll
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\bin\Debug\net8.0-windows\Proje_Form1.pdb
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.Form1.resources
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.csproj.GenerateResource.cache
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.AssemblyInfoInputs.cache
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.AssemblyInfo.cs
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.dll
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\refint\Proje_Form1.dll
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.pdb
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\Proje_Form1.genruntimeconfig.cache
+C:\Users\Serdar Umut\source\repos\Proje_Form1\Proje_Form1\obj\Debug\net8.0-windows\ref\Proje_Form1.dll

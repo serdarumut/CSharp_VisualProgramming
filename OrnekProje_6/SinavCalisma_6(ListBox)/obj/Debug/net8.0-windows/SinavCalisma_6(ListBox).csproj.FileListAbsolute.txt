@@ -1,0 +1,16 @@
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\bin\Debug\net8.0-windows\SinavCalisma_6(ListBox).exe
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\bin\Debug\net8.0-windows\SinavCalisma_6(ListBox).deps.json
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\bin\Debug\net8.0-windows\SinavCalisma_6(ListBox).runtimeconfig.json
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\bin\Debug\net8.0-windows\SinavCalisma_6(ListBox).dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\bin\Debug\net8.0-windows\SinavCalisma_6(ListBox).pdb
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6_ListBox_.Form1.resources
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).csproj.GenerateResource.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).AssemblyInfoInputs.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).AssemblyInfo.cs
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\refint\SinavCalisma_6(ListBox).dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).pdb
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\SinavCalisma_6(ListBox).genruntimeconfig.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_6(ListBox)\SinavCalisma_6(ListBox)\obj\Debug\net8.0-windows\ref\SinavCalisma_6(ListBox).dll

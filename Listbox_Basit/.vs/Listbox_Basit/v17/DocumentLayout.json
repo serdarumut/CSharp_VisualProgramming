@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serdar Umut\\source\\repos\\Listbox_Basit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3640F8A7-4B9A-489F-A185-AAE9820A1BD9}|Listbox_Basit\\Listbox_Basit.csproj|c:\\users\\serdar umut\\source\\repos\\listbox_basit\\listbox_basit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3640F8A7-4B9A-489F-A185-AAE9820A1BD9}|Listbox_Basit\\Listbox_Basit.csproj|solutionrelative:listbox_basit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3640F8A7-4B9A-489F-A185-AAE9820A1BD9}|Listbox_Basit\\Listbox_Basit.csproj|c:\\users\\serdar umut\\source\\repos\\listbox_basit\\listbox_basit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3640F8A7-4B9A-489F-A185-AAE9820A1BD9}|Listbox_Basit\\Listbox_Basit.csproj|solutionrelative:listbox_basit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar Umut\\source\\repos\\Listbox_Basit\\Listbox_Basit\\Form1.cs",
+              "RelativeDocumentMoniker": "Listbox_Basit\\Form1.cs",
+              "ToolTip": "C:\\Users\\Serdar Umut\\source\\repos\\Listbox_Basit\\Listbox_Basit\\Form1.cs*",
+              "RelativeToolTip": "Listbox_Basit\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:09:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Serdar Umut\\source\\repos\\Listbox_Basit\\Listbox_Basit\\Form1.cs",
+              "RelativeDocumentMoniker": "Listbox_Basit\\Form1.cs",
+              "ToolTip": "C:\\Users\\Serdar Umut\\source\\repos\\Listbox_Basit\\Listbox_Basit\\Form1.cs [Design]*",
+              "RelativeToolTip": "Listbox_Basit\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:08:24.61Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

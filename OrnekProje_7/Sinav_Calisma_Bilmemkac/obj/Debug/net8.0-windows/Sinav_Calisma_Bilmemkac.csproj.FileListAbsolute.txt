@@ -1,0 +1,16 @@
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\bin\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.exe
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\bin\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.deps.json
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\bin\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.runtimeconfig.json
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\bin\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.dll
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\bin\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.pdb
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.Form1.resources
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.csproj.GenerateResource.cache
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.AssemblyInfoInputs.cache
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.AssemblyInfo.cs
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.dll
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\refint\Sinav_Calisma_Bilmemkac.dll
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.pdb
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\Sinav_Calisma_Bilmemkac.genruntimeconfig.cache
+C:\Users\Serdar Umut\source\repos\Sinav_Calisma_Bilmemkac\Sinav_Calisma_Bilmemkac\obj\Debug\net8.0-windows\ref\Sinav_Calisma_Bilmemkac.dll

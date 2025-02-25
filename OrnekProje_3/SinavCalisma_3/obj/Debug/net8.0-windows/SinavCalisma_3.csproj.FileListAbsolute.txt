@@ -1,0 +1,16 @@
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\bin\Debug\net8.0-windows\SinavCalisma_3.exe
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\bin\Debug\net8.0-windows\SinavCalisma_3.deps.json
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\bin\Debug\net8.0-windows\SinavCalisma_3.runtimeconfig.json
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\bin\Debug\net8.0-windows\SinavCalisma_3.dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\bin\Debug\net8.0-windows\SinavCalisma_3.pdb
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.Form1.resources
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.csproj.GenerateResource.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.AssemblyInfoInputs.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.AssemblyInfo.cs
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\refint\SinavCalisma_3.dll
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.pdb
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\SinavCalisma_3.genruntimeconfig.cache
+C:\Users\Serdar Umut\source\repos\SinavCalisma_3\SinavCalisma_3\obj\Debug\net8.0-windows\ref\SinavCalisma_3.dll
